@@ -1,0 +1,23 @@
+video{
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    border: 5px solid black;
+}
+.middle h2{
+    text-align: center;
+}
+.middle p{
+    text-align: left;
+}
+.right2{
+    width: 300px; 
+    float: right; 
+    padding-left: 10px; 
+    background-color: #dbb788;
+    color: #00008b;
+    font-size: 30px;
+}
+.right2 a:hover{
+    background-color: #a9ecec;
+}
